@@ -1,0 +1,13 @@
+.hero{
+  background-image: url(./assets/bg.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: right;
+  height: 70vh;
+}
+
+.hr-line{
+  width: 110px;
+  height: 5px;
+  margin: auto;
+}
